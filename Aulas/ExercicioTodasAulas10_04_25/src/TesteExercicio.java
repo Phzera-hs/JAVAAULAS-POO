@@ -8,7 +8,7 @@ public class TesteExercicio {
 
         Aluno pessoa = new Aluno("Pedro",135);
 
-        System.out.println(pessoa);
+        System.out.println(pessoa.getNome());
 
 
 
