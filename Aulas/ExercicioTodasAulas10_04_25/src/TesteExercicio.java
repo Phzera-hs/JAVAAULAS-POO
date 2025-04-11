@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class TesteExercicio {
@@ -9,7 +8,8 @@ public class TesteExercicio {
         Aluno pessoa = new Aluno("Pedro",135);
 
         System.out.println(pessoa.getNome());
-
+        
+        
 
 
 
