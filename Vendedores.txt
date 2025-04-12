@@ -1,0 +1,100 @@
+Vendedor 1:
+Nome: Ana Silva
+CPF: 23966150119
+Login: ana.silva49
+Senha: xD0=$!vJKc
+Salário: R$3429.0
+Quantidade de Vendas: 24
+Salário Final (Salário + Comissão): R$3789.0
+---------------------------
+
+Vendedor 2:
+Nome: Ana Oliveira
+CPF: 12792320260
+Login: ana.oliveira13
+Senha: I#g@a4^I1o
+Salário: R$1816.0
+Quantidade de Vendas: 13
+Salário Final (Salário + Comissão): R$2011.0
+---------------------------
+
+Vendedor 3:
+Nome: João Almeida
+CPF: 35094039356
+Login: joão.almeida20
+Senha: Zh=6M0KC0!
+Salário: R$2284.0
+Quantidade de Vendas: 7
+Salário Final (Salário + Comissão): R$2389.0
+---------------------------
+
+Vendedor 4:
+Nome: João Lima
+CPF: 33026781628
+Login: joão.lima70
+Senha: =8pxWFKO%u
+Salário: R$1856.0
+Quantidade de Vendas: 25
+Salário Final (Salário + Comissão): R$2231.0
+---------------------------
+
+Vendedor 5:
+Nome: João Souza
+CPF: 11066094740
+Login: joão.souza54
+Senha: a%0PgP!Qr@
+Salário: R$3262.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$3682.0
+---------------------------
+
+Vendedor 6:
+Nome: Gabriel Oliveira
+CPF: 74253088445
+Login: gabriel.oliveira30
+Senha: OfOCPD#3&1
+Salário: R$4604.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$5024.0
+---------------------------
+
+Vendedor 7:
+Nome: Maria Oliveira
+CPF: 86552031881
+Login: maria.oliveira72
+Senha: OlT#KB9yVa
+Salário: R$2542.0
+Quantidade de Vendas: 31
+Salário Final (Salário + Comissão): R$3007.0
+---------------------------
+
+Vendedor 8:
+Nome: Carlos Gomes
+CPF: 47095128413
+Login: carlos.gomes86
+Senha: 4bH+p0iC73
+Salário: R$3313.0
+Quantidade de Vendas: 22
+Salário Final (Salário + Comissão): R$3643.0
+---------------------------
+
+Vendedor 9:
+Nome: Gabriel Pereira
+CPF: 74781170994
+Login: gabriel.pereira99
+Senha: 0aeOibL!#$
+Salário: R$1791.0
+Quantidade de Vendas: 13
+Salário Final (Salário + Comissão): R$1986.0
+---------------------------
+
+Vendedor 10:
+Nome: Carlos Pereira
+CPF: 53785742372
+Login: carlos.pereira75
+Senha: IYI&ywbpP0
+Salário: R$2632.0
+Quantidade de Vendas: 15
+Salário Final (Salário + Comissão): R$2857.0
+---------------------------
+
