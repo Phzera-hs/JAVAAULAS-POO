@@ -98,3 +98,103 @@ Quantidade de Vendas: 15
 Salário Final (Salário + Comissão): R$2857.0
 ---------------------------
 
+Vendedor 1:
+Nome: Larissa Almeida
+CPF: 82232475488
+Login: larissa.almeida12
+Senha: 836Df+G8EX
+Salário: R$3419.0
+Quantidade de Vendas: 7
+Salário Final (Salário + Comissão): R$3524.0
+---------------------------
+
+Vendedor 2:
+Nome: Gabriel Ribeiro
+CPF: 42157837579
+Login: gabriel.ribeiro49
+Senha: !Ru3Oix@!O
+Salário: R$2982.0
+Quantidade de Vendas: 11
+Salário Final (Salário + Comissão): R$3147.0
+---------------------------
+
+Vendedor 3:
+Nome: Luiza Ribeiro
+CPF: 48071167262
+Login: luiza.ribeiro82
+Senha: L4u+jgIgI7
+Salário: R$4944.0
+Quantidade de Vendas: 23
+Salário Final (Salário + Comissão): R$5289.0
+---------------------------
+
+Vendedor 4:
+Nome: Luiza Oliveira
+CPF: 96158337952
+Login: luiza.oliveira53
+Senha: NFo1A%@00@
+Salário: R$4215.0
+Quantidade de Vendas: 30
+Salário Final (Salário + Comissão): R$4665.0
+---------------------------
+
+Vendedor 5:
+Nome: Luiza Martins
+CPF: 15571880118
+Login: luiza.martins67
+Senha: eK47V+L0Oo
+Salário: R$2101.0
+Quantidade de Vendas: 26
+Salário Final (Salário + Comissão): R$2491.0
+---------------------------
+
+Vendedor 6:
+Nome: Carlos Lima
+CPF: 73094061595
+Login: carlos.lima49
+Senha: dD$4IWV5zz
+Salário: R$4281.0
+Quantidade de Vendas: 2
+Salário Final (Salário + Comissão): R$4311.0
+---------------------------
+
+Vendedor 7:
+Nome: Larissa Almeida
+CPF: 90610815980
+Login: larissa.almeida99
+Senha: 3Kp%Jedu0Q
+Salário: R$2981.0
+Quantidade de Vendas: 26
+Salário Final (Salário + Comissão): R$3371.0
+---------------------------
+
+Vendedor 8:
+Nome: Ana Pereira
+CPF: 23545262331
+Login: ana.pereira94
+Senha: xn&$K+6BRo
+Salário: R$2336.0
+Quantidade de Vendas: 12
+Salário Final (Salário + Comissão): R$2516.0
+---------------------------
+
+Vendedor 9:
+Nome: Luiza Gomes
+CPF: 46623638031
+Login: luiza.gomes35
+Senha: %6XW3PE=zb
+Salário: R$4204.0
+Quantidade de Vendas: 31
+Salário Final (Salário + Comissão): R$4669.0
+---------------------------
+
+Vendedor 10:
+Nome: Bruna Ribeiro
+CPF: 32598673561
+Login: bruna.ribeiro61
+Senha: R#oX7z&g0w
+Salário: R$3390.0
+Quantidade de Vendas: 4
+Salário Final (Salário + Comissão): R$3450.0
+---------------------------
+
