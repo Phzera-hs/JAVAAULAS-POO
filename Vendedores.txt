@@ -198,3 +198,303 @@ Quantidade de Vendas: 4
 Salário Final (Salário + Comissão): R$3450.0
 ---------------------------
 
+Vendedor 1:
+Nome: Bruna Silva
+CPF: 17975439827
+Login: bruna.silva26
+Senha: pR2=21W2Hy
+Salário: R$2794.0
+Quantidade de Vendas: 3
+Salário Final (Salário + Comissão): R$2839.0
+---------------------------
+
+Vendedor 2:
+Nome: Pedro Ribeiro
+CPF: 66924511848
+Login: pedro.ribeiro70
+Senha: QSi9J6jzx=
+Salário: R$3634.0
+Quantidade de Vendas: 20
+Salário Final (Salário + Comissão): R$3934.0
+---------------------------
+
+Vendedor 3:
+Nome: João Silva
+CPF: 69580268363
+Login: joão.silva90
+Senha: dMs8I!fLn@
+Salário: R$3331.0
+Quantidade de Vendas: 26
+Salário Final (Salário + Comissão): R$3721.0
+---------------------------
+
+Vendedor 4:
+Nome: Carlos Costa
+CPF: 12487092249
+Login: carlos.costa97
+Senha: $KWaJba6^B
+Salário: R$2541.0
+Quantidade de Vendas: 31
+Salário Final (Salário + Comissão): R$3006.0
+---------------------------
+
+Vendedor 5:
+Nome: João Oliveira
+CPF: 84515884350
+Login: joão.oliveira89
+Senha: @4omexPQ3=
+Salário: R$3266.0
+Quantidade de Vendas: 9
+Salário Final (Salário + Comissão): R$3401.0
+---------------------------
+
+Vendedor 6:
+Nome: João Silva
+CPF: 88470238110
+Login: joão.silva43
+Senha: I^3dOe@!zK
+Salário: R$2149.0
+Quantidade de Vendas: 17
+Salário Final (Salário + Comissão): R$2404.0
+---------------------------
+
+Vendedor 7:
+Nome: Larissa Martins
+CPF: 16079839252
+Login: larissa.martins77
+Senha: ar!$CP4&fJ
+Salário: R$3347.0
+Quantidade de Vendas: 23
+Salário Final (Salário + Comissão): R$3692.0
+---------------------------
+
+Vendedor 8:
+Nome: Gabriel Pereira
+CPF: 16579896121
+Login: gabriel.pereira6
+Senha: 8Rx55TV&Sk
+Salário: R$3549.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$3969.0
+---------------------------
+
+Vendedor 9:
+Nome: Felipe Gomes
+CPF: 83821711979
+Login: felipe.gomes72
+Senha: v7A@4c9die
+Salário: R$3253.0
+Quantidade de Vendas: 18
+Salário Final (Salário + Comissão): R$3523.0
+---------------------------
+
+Vendedor 10:
+Nome: Carlos Pereira
+CPF: 93949038762
+Login: carlos.pereira92
+Senha: Vb=3lcjUxQ
+Salário: R$3606.0
+Quantidade de Vendas: 11
+Salário Final (Salário + Comissão): R$3771.0
+---------------------------
+
+Vendedor 1:
+Nome: Felipe Oliveira
+CPF: 78260186064
+Login: felipe.oliveira46
+Senha: e$0v0uuAJB
+Salário: R$1867.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$2287.0
+---------------------------
+
+Vendedor 2:
+Nome: Carlos Almeida
+CPF: 34492450478
+Login: carlos.almeida35
+Senha: Ymh6L=yyZH
+Salário: R$1949.0
+Quantidade de Vendas: 29
+Salário Final (Salário + Comissão): R$2384.0
+---------------------------
+
+Vendedor 3:
+Nome: Larissa Oliveira
+CPF: 32940739082
+Login: larissa.oliveira87
+Senha: l+peRH6JXu
+Salário: R$4150.0
+Quantidade de Vendas: 11
+Salário Final (Salário + Comissão): R$4315.0
+---------------------------
+
+Vendedor 4:
+Nome: Ana Gomes
+CPF: 84749015639
+Login: ana.gomes78
+Senha: vZ+#$8^mZf
+Salário: R$3308.0
+Quantidade de Vendas: 20
+Salário Final (Salário + Comissão): R$3608.0
+---------------------------
+
+Vendedor 5:
+Nome: Gabriel Oliveira
+CPF: 81892560242
+Login: gabriel.oliveira43
+Senha: SXBX6JIec=
+Salário: R$2532.0
+Quantidade de Vendas: 24
+Salário Final (Salário + Comissão): R$2892.0
+---------------------------
+
+Vendedor 6:
+Nome: Luiza Martins
+CPF: 65152499435
+Login: luiza.martins78
+Senha: 4j+fTKDX$O
+Salário: R$2464.0
+Quantidade de Vendas: 15
+Salário Final (Salário + Comissão): R$2689.0
+---------------------------
+
+Vendedor 7:
+Nome: Carlos Martins
+CPF: 90687683528
+Login: carlos.martins3
+Senha: 5fZ!i5dMoM
+Salário: R$1723.0
+Quantidade de Vendas: 11
+Salário Final (Salário + Comissão): R$1888.0
+---------------------------
+
+Vendedor 8:
+Nome: João Martins
+CPF: 70521093370
+Login: joão.martins48
+Senha: ZeB7Q&1&Hq
+Salário: R$3330.0
+Quantidade de Vendas: 11
+Salário Final (Salário + Comissão): R$3495.0
+---------------------------
+
+Vendedor 9:
+Nome: João Silva
+CPF: 82321238848
+Login: joão.silva65
+Senha: d^^9wYQsmg
+Salário: R$4786.0
+Quantidade de Vendas: 27
+Salário Final (Salário + Comissão): R$5191.0
+---------------------------
+
+Vendedor 10:
+Nome: Bruna Lima
+CPF: 72539824499
+Login: bruna.lima88
+Senha: H6ZI6MW$vV
+Salário: R$1632.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$2052.0
+---------------------------
+
+Vendedor 1:
+Nome: Ana Gomes
+CPF: 32836030076
+Login: ana.gomes98
+Senha: 8GIMfuNQ#4
+Salário: R$4948.0
+Quantidade de Vendas: 16
+Salário Final (Salário + Comissão): R$5188.0
+---------------------------
+
+Vendedor 2:
+Nome: Maria Oliveira
+CPF: 81240568768
+Login: maria.oliveira30
+Senha: 5IcWo4uY#@
+Salário: R$4612.0
+Quantidade de Vendas: 13
+Salário Final (Salário + Comissão): R$4807.0
+---------------------------
+
+Vendedor 3:
+Nome: Gabriel Martins
+CPF: 92049678197
+Login: gabriel.martins56
+Senha: cZ%tJxbnB1
+Salário: R$2590.0
+Quantidade de Vendas: 16
+Salário Final (Salário + Comissão): R$2830.0
+---------------------------
+
+Vendedor 4:
+Nome: Gabriel Ribeiro
+CPF: 38022723977
+Login: gabriel.ribeiro75
+Senha: 1LMSXl!zbW
+Salário: R$2228.0
+Quantidade de Vendas: 28
+Salário Final (Salário + Comissão): R$2648.0
+---------------------------
+
+Vendedor 5:
+Nome: João Oliveira
+CPF: 12975225739
+Login: joão.oliveira89
+Senha: DgXk#FMZ5A
+Salário: R$4991.0
+Quantidade de Vendas: 12
+Salário Final (Salário + Comissão): R$5171.0
+---------------------------
+
+Vendedor 6:
+Nome: Maria Costa
+CPF: 75919737432
+Login: maria.costa97
+Senha: g8bo5AzIx+
+Salário: R$1814.0
+Quantidade de Vendas: 30
+Salário Final (Salário + Comissão): R$2264.0
+---------------------------
+
+Vendedor 7:
+Nome: Larissa Souza
+CPF: 52472175436
+Login: larissa.souza32
+Senha: U0Cyg7n@+L
+Salário: R$4435.0
+Quantidade de Vendas: 22
+Salário Final (Salário + Comissão): R$4765.0
+---------------------------
+
+Vendedor 8:
+Nome: Pedro Martins
+CPF: 28239268016
+Login: pedro.martins55
+Senha: k48GS+F4nR
+Salário: R$3524.0
+Quantidade de Vendas: 4
+Salário Final (Salário + Comissão): R$3584.0
+---------------------------
+
+Vendedor 9:
+Nome: Gabriel Martins
+CPF: 25988463152
+Login: gabriel.martins21
+Senha: 8aPgfuE#0g
+Salário: R$4749.0
+Quantidade de Vendas: 16
+Salário Final (Salário + Comissão): R$4989.0
+---------------------------
+
+Vendedor 10:
+Nome: Gabriel Almeida
+CPF: 75758837177
+Login: gabriel.almeida8
+Senha: DQ$u!zNWE8
+Salário: R$4077.0
+Quantidade de Vendas: 16
+Salário Final (Salário + Comissão): R$4317.0
+---------------------------
+
